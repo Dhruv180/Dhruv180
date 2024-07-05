@@ -40,10 +40,17 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=dhruv180&show_icons=true&theme=radical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv180" alt="Dhruv Mahajan">
+    </div>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv180&show_icons=true&locale=en&layout=compact" alt="Dhruv Mahajan">
+</div>
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=dhruv180&show_icons=true&theme=radical">
-</p>
+
+
+
 
 <br/><br/>
 
