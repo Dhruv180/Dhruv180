@@ -38,15 +38,21 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
+# ⚙️ GitHub Analytics
+
+<table align="center">
+  <tr>
+<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=dhruv180&show_icons=true&theme=dark" />
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv180&layout=compact&theme=dark" /></td>
+  </tr>
+</table>
+
 <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=dhruv180&show_icons=true&theme=radical">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv180" alt="Dhruv Mahajan">
-    </div>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv180&show_icons=true&locale=en&layout=compact" alt="Dhruv Mahajan">
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv180&layout=compact&theme=dark" alt="Dhruv Mahajan"/></p>
+  </div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
 
